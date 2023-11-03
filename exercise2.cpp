@@ -14,11 +14,16 @@
  * The robot at the ends asks the user to try again(y,n) if yes it runs again if no it exits.
 ***/
 
-
-
-
-
-
+/**
+ * @file exercise2.cpp
+ * @author Shivam Sehgal (ssehgal7@umd.edu)
+ * @brief 
+ * @version 0.1
+ * @date 2023-11-02
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
 //Following libraries are used the standard input output, arrays and strings.
 #include <iostream>
 #include <string>

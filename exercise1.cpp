@@ -7,6 +7,17 @@
  * Input options are given with question for wrong inputs questions are asked again.
  * The program runs untill the user decides to not try again.
 ***/
+
+/**
+ * @file exercise1.cpp
+ * @author Shivam Sehga (ssehgal7@umd.edu)
+ * @brief 
+ * @version 0.1
+ * @date 2023-11-02
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
 #include<iostream>
 #include<string>
 

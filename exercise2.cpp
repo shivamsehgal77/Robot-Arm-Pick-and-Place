@@ -27,7 +27,6 @@
 #include <algorithm>  
 
 
-
 /*! Edits the arrays according to the input ptovided by the user.  
     \param red takes the input from user of place to put the peg.
     \param box is the array in which the robot has to place the box.
